@@ -1,0 +1,57 @@
+#h{
+    background:-webkit-linear-gradient(180deg,rgb(0, 0, 0),rgb(43, 19, 43));
+}
+
+#hh{
+    background:linear-gradient(190deg, rgb(107, 106, 106),rgb(5, 5, 39));
+    border: 1px solid #dedede;
+    border-radius: 4px;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
+    color: #ffffff;
+    display: block;
+    
+    overflow: hidden;
+    width: 100%; 
+    margin: 0;
+    padding: 10px;
+    
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#hhh {
+    background:linear-gradient(190deg,rgb(80, 77, 77),rgb(24, 23, 23)) ;
+    text-align: center;
+    margin: 25px ;
+    padding: 45px;
+   
+    border: 1px solid rgb(229, 235, 224) ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+#q{
+    background:linear-gradient(190deg,rgb(80, 77, 77),rgb(24, 23, 23)) ;
+    text-align: center;
+    margin: 25px ;
+    padding: 45px;
+    
+    border: 1px solid rgb(229, 235, 224) ;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#e{
+    background:linear-gradient(190deg,rgb(80, 77, 77),rgb(24, 23, 23)) ;
+    text-align: center;
+    margin: 25px ;
+    padding: 45px;
+    
+    border: 1px solid rgb(229, 235, 224) ;
+   margin-top: 10px;
+}
